@@ -28,7 +28,7 @@ This project leverages Pix2Pix, a conditional GAN architecture, to convert seman
 - ### Discriminator:
   The Discriminator evaluates the authenticity of generated images compared to real ones.
 
-  <img src='https://www.researchgate.net/publication/332932603/figure/fig2/AS:756127935516673@1557286356523/Data-flow-of-Pix2Pix-in-this-research.jpg'>
+  <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FData-flow-of-Pix2Pix-in-this-research_fig2_332932603&psig=AOvVaw3uvYKCFVZgjyDfNQuxgDNB&ust=1703344277425000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJi5lpqqo4MDFQAAAAAdAAAAABAD'>
 
   ## Results
   ![Input Image](Images/input_150.png)               ![Output Image](Images/y_gen_150.png)
