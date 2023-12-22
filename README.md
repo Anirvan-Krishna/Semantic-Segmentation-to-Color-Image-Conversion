@@ -27,6 +27,10 @@ This project leverages Pix2Pix, a conditional GAN architecture, to convert seman
 - Discriminator: The Discriminator evaluates the authenticity of generated images compared to real ones.
   
   ## Results
- Source: ![Input Image](Images/input_150.png)         Output: ![Output Image](Images/y_gen_150.png)
+ Source:         Output: 
+| Input Image | Output Image |
+|---------|---------|
+|  ![Input Image](Images/input_150.png) | ![Output Image](Images/y_gen_150.png) |
+
 
   This is the result for 150 epochs of training for the model. The model produces better results as it is trained for longer
