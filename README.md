@@ -29,6 +29,6 @@ This project leverages Pix2Pix, a conditional GAN architecture, to convert seman
   ## Results
 | Input Image | Output Image |
 |---------|---------|
-|  ![Input Image](Images/input_150.png) | ![Output Image](Images/y_gen_150.png) |
+|  ![Input Image](https://github.com/Anirvan-Krishna/Semantic-Segmentation-to-Color-Image-Conversion/blob/main/Images/input_150.png) | ![Output Image](https://github.com/Anirvan-Krishna/Semantic-Segmentation-to-Color-Image-Conversion/blob/main/Images/Images/y_gen_150.png) |
 
 This is the result for 150 epochs of training for the model. The model produces better results as it is trained for longer
