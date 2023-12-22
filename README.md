@@ -27,9 +27,10 @@ This project leverages Pix2Pix, a conditional GAN architecture, to convert seman
   The Generator model consists of a series of down-sampling and up-sampling blocks, converting segmented images to colored representations.
 - ### Discriminator:
   The Discriminator evaluates the authenticity of generated images compared to real ones.
-  ![Model Architecture](https://www.researchgate.net/publication/332932603/figure/fig2/AS:756127935516673@1557286356523/Data-flow-of-Pix2Pix-in-this-research.jpg)
+
+  <img src='https://www.researchgate.net/publication/332932603/figure/fig2/AS:756127935516673@1557286356523/Data-flow-of-Pix2Pix-in-this-research.jpg'>
 
   ## Results
-  ![Input Image](Images/input_150.png) ![Output Image](Images/y_gen_150.png)
+  ![Input Image](Images/input_150.png)               ![Output Image](Images/y_gen_150.png)
 
   This is the result for 150 epochs of training for the model. The model produces better results as it is trained for longer
