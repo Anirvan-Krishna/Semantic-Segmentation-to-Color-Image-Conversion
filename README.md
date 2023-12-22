@@ -31,6 +31,7 @@ This project leverages Pix2Pix, a conditional GAN architecture, to convert seman
 
   ## Results
   ![Input Image](Images/input_150.png)
-  ![Output Image](Images/y_gen_150)
+  
+  ![Output Image](Images/y_gen_150.png)
 
   This is the result for 150 epochs of training for the model. The model produces better results as it is trained for longer
