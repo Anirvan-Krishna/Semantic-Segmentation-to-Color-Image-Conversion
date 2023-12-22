@@ -32,3 +32,6 @@ This project leverages Pix2Pix, a conditional GAN architecture, to convert seman
 | ![Input Image](https://i.imgur.com/9gkAMYy.png) | ![Output Image](https://i.imgur.com/d8av3qM.png) |
 
 This is the result for 150 epochs of training for the model. The model produces better results as it is trained for longer
+
+## Acknowledement
+This project utilizes the Pix2Pix architecture developed by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros from UC Berkeley. We acknowledge and appreciate their groundbreaking work on image-to-image translation using conditional adversarial networks. For more details about Pix2Pix, please refer to their paper: [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) by Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A.
